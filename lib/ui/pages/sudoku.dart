@@ -73,7 +73,7 @@ class Board extends StatelessWidget {
       child: Container(
         height: 152,
         decoration: BoxDecoration(
-          border: Border.all(color: Color(0xFFD3BBFF), width: 2),
+          border: Border.all(color: Color(0xFFD3BBFF), width: 1),
         ),
         padding: const EdgeInsets.all(2.0),
         child: Column(
